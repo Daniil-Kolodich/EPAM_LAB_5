@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\bin\Debug\netcoreapp3.1\_Exceptions.exe
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\bin\Debug\netcoreapp3.1\_Exceptions.deps.json
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\bin\Debug\netcoreapp3.1\_Exceptions.runtimeconfig.json
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\bin\Debug\netcoreapp3.1\_Exceptions.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\bin\Debug\netcoreapp3.1\_Exceptions.dll
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\bin\Debug\netcoreapp3.1\_Exceptions.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\obj\Debug\netcoreapp3.1\_Exceptions.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\obj\Debug\netcoreapp3.1\_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\obj\Debug\netcoreapp3.1\_Exceptions.AssemblyInfo.cs
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\obj\Debug\netcoreapp3.1\_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\obj\Debug\netcoreapp3.1\_Exceptions.dll
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\obj\Debug\netcoreapp3.1\_Exceptions.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_5\_Exceptions\obj\Debug\netcoreapp3.1\_Exceptions.genruntimeconfig.cache
